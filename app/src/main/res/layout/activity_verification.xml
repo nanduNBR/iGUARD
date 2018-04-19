@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/overallBackground"
+    android:orientation="horizontal"
+    tools:context="nandubrajan.ceknpy.iguard.VerificationActivity">
+
+    <ImageView
+        android:id="@+id/ImageViewVerify"
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_verification_layout_height"
+        android:src="@drawable/finger_print"/>
+
+    <TextView
+        android:id="@+id/textViewAuthenticate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_verification_marginTop"
+        android:text="@string/hello"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/activity_verification_textSize"
+        android:textStyle="bold" />
+
+</RelativeLayout>

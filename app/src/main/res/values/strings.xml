@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">iGUARD</string>
+    <string name="title_activity_main_login_register">MainLoginRegister</string>
+    <string name="title_activity_main_lock_track">MainLockTrack</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    --activity_verification--
+    <string name="hello">Hello Verify its You</string>
+    <string name="unlock">Unlock</string>
+    <string name="confirm_pattern">Confirm your screen lock</string>
+    <string name="setting_label"><![CDATA[Please set the screen lock Manually by navigating to : Settings>Security.]]></string>
+    <string name="unlock_success">App is Unlocked successfully.</string>
+    <string name="unlock_failed">Failed to Unlock the app.</string>
+    <string name="device_is_secure">Device is now secure.</string>
+    <string name="security_device_cancelled">Device is not secure or user cancel the request.</string>
+    <string name="authenticate_again">Authenticate Again</string>
+    <string name="title_activity_track">Track</string>
+    <string name="title_activity_home">Home Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="textview">TextView</string>
+    <string name="title_activity_lock_activity">Lock Activity</string>
+
+
+</resources>

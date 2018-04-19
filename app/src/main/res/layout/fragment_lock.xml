@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="nandubrajan.ceknpy.iguard.Lock">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <!--<ImageView
+        android:id="@+id/lockImage"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginTop="100dp"
+        android:scaleType="fitCenter"/> -->
+
+</RelativeLayout>

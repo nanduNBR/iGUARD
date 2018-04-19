@@ -1,0 +1,19 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">4dp</dimen>
+
+    <dimen name="activity_main_login_register_layoutHeight">140dp</dimen>
+
+    <dimen name="activity_login_padding">35dp</dimen>
+
+    <dimen name="activity_register_padding">35dp</dimen>
+
+    <dimen name="activity_verification_layout_height">150dp</dimen>
+    <dimen name="activity_verification_marginTop">100dp</dimen>
+    <dimen name="activity_verification_textSize">20sp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+</resources>

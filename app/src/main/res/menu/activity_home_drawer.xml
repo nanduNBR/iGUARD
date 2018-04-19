@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_family"
+            android:icon="@drawable/ic_family"
+            android:title="Family" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="Settings" />
+    </group>
+
+    <item android:title="History">
+        <menu>
+            <item
+                android:id="@+id/nav_lock_activity"
+                android:icon="@drawable/ic_locknav"
+                android:title="Lock Activity" />
+            <item
+                android:id="@+id/nav_messagehistory"
+                android:icon="@drawable/ic_message"
+                android:title="Messages" />
+        </menu>
+    </item>
+    <item android:title="Connectivity">
+        <menu>
+            <item
+                android:id="@+id/nav_easy_access"
+                android:icon="@drawable/ic_easy_access"
+                android:title="Easy Access" />
+        </menu>
+    </item>
+
+    <item android:title="Account">
+        <menu>
+            <item
+                android:id="@+id/nav_genkey"
+                android:icon="@drawable/ic_key"
+                android:title="Generate Key" />
+            <item
+                android:id="@+id/nav_signout"
+                android:icon="@drawable/ic_signout"
+                android:title="Signout" />
+        </menu>
+    </item>
+
+
+
+
+</menu>
